@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./laquaestiodeaqua00dantuoft_0039.png"; bbox 0 0 2326 3502; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 318 1447 1941 1858">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 318 1447 1941 1858">
+     <span class='ocr_line' id='line_1_1' title="bbox 901 1447 1455 1576; baseline 0.002 -36"><span class='ocrx_word' id='word_1_1' title='bbox 901 1447 1455 1576; x_wconf 57' lang='grc' dir='ltr'>ΡΒΕΕᾼΟΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 318 1602 1941 1723; baseline 0.001 -31"><span class='ocrx_word' id='word_1_2' title='bbox 318 1641 322 1644; x_wconf 53' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 413 1639 474 1692; x_wconf 82' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 497 1638 548 1692; x_wconf 76' lang='grc' dir='ltr'><strong>Ιι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 570 1602 848 1709; x_wconf 66' lang='lat' dir='ltr'><strong>traducfiqn</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 872 1639 1116 1723; x_wconf 53' lang='lat' dir='ltr'><strong>{angiae</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1140 1641 1191 1691; x_wconf 83' lang='lat' dir='ltr'><strong>et</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1212 1639 1275 1691; x_wconf 80' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1300 1638 1350 1691; x_wconf 76' lang='lat' dir='ltr'><strong>la</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1373 1639 1652 1711; x_wconf 60' lang='lat' dir='ltr'><strong>traductum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1677 1641 1941 1706; x_wconf 76' lang='lat' dir='ltr'>espagnole</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 819 1778 1535 1858; baseline 0.001 -25"><span class='ocrx_word' id='word_1_12' title='bbox 819 1795 916 1853; x_wconf 79' lang='lat' dir='ltr'><strong>par</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 953 1781 1002 1834; x_wconf 78' lang='grc' dir='ltr'><strong>ΙΘ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1040 1778 1277 1858; x_wconf 75' lang='lat' dir='ltr'>Docteur</span> <span class='ocrx_word' id='word_1_15' title='bbox 1314 1779 1535 1852; x_wconf 71' lang='lat' dir='ltr'>Prompt</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 177 3502">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 177 3502">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 177 3502; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 177 3502; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
